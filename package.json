@@ -1,0 +1,11 @@
+{
+  "name": "antihax",
+  "version": "1.0.0",
+  "description": "Provides anti hack clients for you to stop hackers cuz why not?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Everettex",
+  "license": "MIT"
+}
